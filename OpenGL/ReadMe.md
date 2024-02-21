@@ -2,6 +2,12 @@
 
 The goal of the project is to model a simple animatronic with realistic materials and lighting in C++ OpenGL.
 
+The robot arm is rendered in a black background with a point light source represented by a
+white cube (the lamp mentioned above). Arm can extend and retract upper and lower arm, rotate
+around Y axis, open and close fingers. Material for arm is chrome, material for fingers is red plastic.
+Material specs from http://devernay.free.fr/cours/opengl/materials.html. Header, shader, and source files
+adapted from ones provided at https://learnopengl.com. 
+
 ## Source code:
 - illumination.cpp
 
@@ -22,11 +28,6 @@ The goal of the project is to model a simple animatronic with realistic material
   - https://www.glfw.org/download
 
 ## Output:
-The robot arm is rendered in a black background with a point light source represented by a
-white cube (the lamp mentioned above). Arm can extend and retract upper and lower arm, rotate
-around Y axis, open and close fingers. Material for arm is chrome, material for fingers is red plastic.
-Material specs from http://devernay.free.fr/cours/opengl/materials.html. Header and shader files
-adapted from ones provided at https://learnopengl.com. 
 
 ### View when launching executable
 ![image](https://github.com/cmm1382/Visualization/assets/148571043/6891b90b-4e77-4f15-b0ac-ebf5910cd944)
