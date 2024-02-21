@@ -7,6 +7,8 @@
 
 #include <vector>
 
+// ADAPTED FROM: https://learnopengl.com/
+
 // Defines several possible options for camera movement. Used as abstraction to stay away from window-system specific input methods
 enum Camera_Movement {
     FORWARD,
