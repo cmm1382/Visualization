@@ -8,6 +8,7 @@
 #include <iostream>
 
 /*
+    ADAPTED FROM: https://learnopengl.com/
     Calvin McGinnis Robot Illumination homework
     Uses glfw callbacks, classes and shaders from https://learnopengl.com/Lighting/materials and https://learnopengl.com/Lighting/Light-casters
     Uses material information from http://devernay.free.fr/cours/opengl/materials.html
