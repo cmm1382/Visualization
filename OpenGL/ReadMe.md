@@ -3,14 +3,15 @@
 The goal of the project is to model a simple animatronic with realistic materials and lighting in C++ OpenGL.
 
 ## Source code:
--illumination.cpp\
-Attached dependencies:\
+-illumination.cpp
+
+## Attached dependencies:
 -robotMaterials.vs (main vertex shader)\
 -robotMaterials.fs (main fragment shader)\
 -robotLight.vs (vertex shader for rendering lamp)\
 -robotLight.fs (fragment shader for rendering lamp)\
 -camera.h\
--shader.h\
+-shader.h
 
 ## Output:
 The robot arm is rendered in a black background with a point light source represented by a
