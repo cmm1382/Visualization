@@ -27,3 +27,15 @@ white cube (the lamp mentioned above). Arm can extend and retract upper and lowe
 around Y axis, open and close fingers. Material for arm is chrome, material for fingers is red plastic.
 Material specs from http://devernay.free.fr/cours/opengl/materials.html. Header and shader files
 adapted from ones provided at https://learnopengl.com. 
+
+### View when launching executable
+![image](https://github.com/cmm1382/Visualization/assets/148571043/6891b90b-4e77-4f15-b0ac-ebf5910cd944)
+
+### Rotate upper arm around Z axis by pressing up, retract lower arm by pressing shift + down, open fingers to max with page down
+![image](https://github.com/cmm1382/Visualization/assets/148571043/2abc1a4d-a7b1-43b7-99a7-bdb2710319ec)
+
+### Rotate entire arm assembly around Y axis with left, close fingers to min with page up
+![image](https://github.com/cmm1382/Visualization/assets/148571043/512aa3e1-3f6a-47a9-8d0d-1d846235eafe)
+
+### Move camera position with WASD, mouse
+![image](https://github.com/cmm1382/Visualization/assets/148571043/24c11e81-8259-4eab-991f-fa69f56a597c)
