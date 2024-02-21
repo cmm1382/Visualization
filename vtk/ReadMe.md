@@ -15,10 +15,10 @@ Using VTK in python, the implicit sphere function can be used to calculate the s
 ## Output:
 
 ### Running ‘python marchingcubes.py’
-![image](https://github.com/cmm1382/Visualization/assets/148571043/c777d7aa-2954-40bf-9925-3323ba6a610a)
+![306484267-c777d7aa-2954-40bf-9925-3323ba6a610a](https://github.com/cmm1382/Visualization/assets/148571043/0de629ec-6bda-4fb6-bcfc-458f6397810d)
 
 ### Press W to view wireframe model. This shows how dense the mesh is.
-![image](https://github.com/cmm1382/Visualization/assets/148571043/e0ca3389-2d2f-43c3-9230-2e937204f506)
+![306484245-e0ca3389-2d2f-43c3-9230-2e937204f506](https://github.com/cmm1382/Visualization/assets/148571043/09a80576-835a-4623-b8eb-75594c305ac4)
 
 ### Running ‘python marchingcubes.py -r 5’ shows that less sample points leads to a less accurate rendering
 ![image](https://github.com/cmm1382/Visualization/assets/148571043/63493355-2fc7-46e5-a9d2-c2f9e6c45b4f)
